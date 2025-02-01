@@ -10,7 +10,7 @@ public class TypeSuffixApp {
          * by default. In order to typecast to
          * long we have to insert a type suffix L or l
          */
-        long num1 = 2147483648L;
+        long num1 = 2147483647L;
 
         /*
         For short and byte data types
